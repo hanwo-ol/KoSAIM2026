@@ -5,12 +5,12 @@
 | # | 원본 | 포스터 | 분야 | 상태 | 글 |
 |---|---|---|---|---|---|
 | 1 | `20261024_100618.heic` | Fine-Tuned Small Language Models for Hierarchical KTAS Triage (P5-16) | 의료 LLM | 📝 초안 | [post](../_posts/2026-10-24-fine-tuned-small-language-models-for-hierarchical-ktas-triage.md) |
-| 2 | `20261024_100625.heic` | Multi-Agent Framework for Chest X-ray Interpretation | 에이전트/VLM | ⬜ | |
-| 3 | `20261024_100638.heic` | SCHERA: OMOP CDM 기반 자율 EHR 에이전트 | 에이전트/EHR | ⬜ | |
-| 4 | `20261024_100735.heic` | Analyzing the Cause of Performance Collapse in Medical LLM Fine-Tuning | 의료 LLM | ⬜ | |
-| 5 | `20261024_100754.heic` | Meerkat2: Bridging Global Reasoning and Local Knowledge | 의료 LLM | ⬜ | |
-| 6 | `20261024_100803.heic` | Early Prediction Models for Intraoperative Hypoxemia | 생체신호 | ⬜ | |
-| 7 | `20261024_100807.heic` | 보형물 재건 후 구형구축 예측 ML | 임상 예측 | ⬜ | |
+| 2 | `20261024_100625.heic` | A Trustworthy Multi-Agent Framework for Chest X-ray Interpretation | 에이전트/VLM | 📝 초안 | [post](../_posts/2026-10-24-trustworthy-multi-agent-framework-for-chest-x-ray-interpretation.md) |
+| 3 | `20261024_100638.heic` | SCHERA: an Autonomous EHR Agent on the OMOP CDM | 에이전트/EHR | 📝 초안 | [post](../_posts/2026-10-24-schera-autonomous-ehr-agent-on-the-omop-cdm.md) |
+| 4 | `20261024_100735.heic` | Analyzing the Cause of Performance Collapse in Medical LLM Fine-Tuning | 의료 LLM | 📝 초안 | [post](../_posts/2026-10-24-analyzing-the-cause-of-performance-collapse-in-medical-llm-fine-tuning.md) |
+| 5 | `20261024_100754.heic` | Meerkat2: Bridging Global Reasoning and Local Knowledge | 의료 LLM | 📝 초안 | [post](../_posts/2026-10-24-meerkat2-bridging-global-reasoning-and-local-knowledge.md) |
+| 6 | `20261024_100803.heic` | Analyzing Early Prediction Models for Intraoperative Hypoxemia | 생체신호 | 📝 초안 | [post](../_posts/2026-10-24-early-prediction-models-for-intraoperative-hypoxemia.md) |
+| 7 | `20261024_100807.heic` | Preoperative and Postoperative ML Prediction of Capsular Contracture (P4-10) | 임상 예측 | 📝 초안 | [post](../_posts/2026-10-24-preoperative-and-postoperative-ml-prediction-of-capsular-contracture.md) |
 | 8 | `20261024_100814.heic` | 연부조직육종 폐전이 예측 (FDG-PET/MRI Foundation Model) | 영상 | ⬜ | |
 | 9 | `20261024_100827.heic` | On-Premise LM 기반 전이성 유방암 판독문 Disease Burden 등급화 | 의료 LLM | ⬜ | |
 | 10 | `20261024_100839.heic` | 다중 에이전트 시스템 기반 의료 VQA 성능 개선 | 에이전트/VLM | ⬜ | |
