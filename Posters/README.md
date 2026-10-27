@@ -11,7 +11,7 @@
 | 5 | `20261024_100754.heic` | Meerkat2: Bridging Global Reasoning and Local Knowledge | 의료 LLM | 📝 초안 | [post](../_posts/2026-10-24-meerkat2-bridging-global-reasoning-and-local-knowledge.md) |
 | 6 | `20261024_100803.heic` | Analyzing Early Prediction Models for Intraoperative Hypoxemia | 생체신호 | 📝 초안 | [post](../_posts/2026-10-24-early-prediction-models-for-intraoperative-hypoxemia.md) |
 | 7 | `20261024_100807.heic` | Preoperative and Postoperative ML Prediction of Capsular Contracture (P4-10) | 임상 예측 | 📝 초안 | [post](../_posts/2026-10-24-preoperative-and-postoperative-ml-prediction-of-capsular-contracture.md) |
-| 8 | `20261024_100814.heic` | 연부조직육종 폐전이 예측 (FDG-PET/MRI Foundation Model) | 영상 | ⬜ | |
+| 8 | `20261024_100814.heic` | Preoperative Prediction of Lung Metastasis in Soft-Tissue Sarcoma (FDG-PET/MRI Foundation Model) | 영상 | 📝 초안 | [post](../_posts/2026-10-24-preoperative-prediction-of-lung-metastasis-in-soft-tissue-sarcoma.md) |
 | 9 | `20261024_100827.heic` | On-Premise LM 기반 전이성 유방암 판독문 Disease Burden 등급화 | 의료 LLM | ⬜ | |
 | 10 | `20261024_100839.heic` | 다중 에이전트 시스템 기반 의료 VQA 성능 개선 | 에이전트/VLM | ⬜ | |
 | 11 | `20261024_100910.heic` | STREAM: Riemannian Flow Matching 병리 이미지 생성 (P2-6) | 생성모델 | ⬜ | |
