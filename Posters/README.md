@@ -16,6 +16,7 @@
 | 10 | `20261024_100839.heic` | 다중 에이전트 시스템 기반 의료 VQA 성능 개선 | 에이전트/VLM | ⬜ | |
 | 11 | `20261024_100910.heic` | STREAM: Riemannian Flow Matching 병리 이미지 생성 (P2-6) | 생성모델 | ⬜ | |
 | 12 | `20261024_100919.heic` | Diffusion Autoencoder + ANB Supervision, 측면 두부계측 골격 분류 | 영상/생성 | ⬜ | |
+| ★ | `20261023_131813.heic` | LLM-Based IRB Protocol Working Draft Generation System (P5-21) | 의료 LLM/연구지원 | 📝 초안 | [post](../_posts/2026-10-23-llm-based-irb-protocol-working-draft-generation-system.md) |
 | — | (사진 없음) | GRACE: Governance Agent for Safe and Trustworthy Clinical AI | 거버넌스 | ✅ 발행 | [post](../_posts/2026-10-25-grace-governance-agent-for-safe-and-trustworthy-clinical-ai.md) |
 
 상태: ⬜ 대기 · 🔄 작성 중 · 📝 초안(TODO 남음) · ✅ 발행
